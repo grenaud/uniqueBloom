@@ -1,7 +1,7 @@
 uniqueBloom
 ===========
 
-Output unique DNA reads. It currently only supports fastq but I could be convinced to make a BAM version.
+Output unique DNA reads. It uses https://github.com/bitly/dablooms. It currently only supports fastq but I could be convinced to make a BAM version.
 
 Usage 
 ./uniqueseqBloom [fastq file] [temp file]
